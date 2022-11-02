@@ -1,1 +1,1 @@
-# club-website
+# CMHS Club Website
