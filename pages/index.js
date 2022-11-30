@@ -8,5 +8,7 @@ export default function Home() {
       <Link href="/Megan">Please Click Me 2</Link>
       <br />
       <Link href="/Alex">Please Click Me 3</Link>
+      <br />
+      <Link href="/Michael">Please Click Me Babbbbyyyyyy</Link>
     </div>);
 }
