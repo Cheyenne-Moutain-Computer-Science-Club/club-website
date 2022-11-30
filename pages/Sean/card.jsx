@@ -6,11 +6,3 @@ export default function Card(){
     </div>
   )
 }
-
-export default function Thing1(){
-  return(
-    <div>
-     <h2>Ok thas odd</h2>
-    </div>
-  )
-}
