@@ -1,0 +1,6 @@
+- Very light overview of React / Next routing
+- Setup
+  - Github access
+  - Github Teams
+  - VsCode / Replit
+  - 
