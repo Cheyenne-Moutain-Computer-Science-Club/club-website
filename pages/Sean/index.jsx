@@ -8,7 +8,7 @@ export default function Sean(){
       <Card />
       <Card />
       <Link href="/">Home</Link>
-      <img src="/maxresdefault" alt="gayimage" />
+      <img src="/maxresdefault.jpg" alt="gayimage" className="w-20 h-w20"/>
     </div>
   );
 }
