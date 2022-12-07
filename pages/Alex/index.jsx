@@ -10,6 +10,7 @@ export default function Alex() {
         <br />
         <h1>The Void welcomes You.</h1>
         <Card />
+        <img src="/uwu.png" alt="uwu cat nya"/>
       </div>
   
     )
