@@ -9,9 +9,11 @@ export default function Home() {
       <br />
       <Link href="/Alex">Please Click Me 3</Link>
       <br />
-      <Link href="/Sean">I&#39;m the best button</Link>
+      <Link href="/Sean">I&apos;m the best button</Link>
       <br />
       <Link href="/Michael">Please Click Me Babbbbyyyyyy</Link>
+      <br />
+      <Link href="/Taylor">tee hee</Link>
     </div>
   );
 }

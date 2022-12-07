@@ -1,4 +1,4 @@
-export defualt function Taylor() {
+export default function Taylor() {
   return (
     <div>
     <div>
